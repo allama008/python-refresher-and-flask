@@ -1,0 +1,14 @@
+/* This only targets any siblings that come after the elements 
+mentioned below */
+
+/* label ~ input {
+    padding: 5px 10px;
+} */
+
+/* The adjacent sibling combinator is used to target any element that
+comes directly after the element mentioned and is a sibling of the 
+element */
+
+label + input {
+    padding: 5px 10px;
+}

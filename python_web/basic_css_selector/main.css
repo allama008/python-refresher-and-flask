@@ -1,0 +1,29 @@
+/*
+h1, p {
+    color: green;
+}
+*/
+
+/*
+h1, .red {
+    color: red
+}
+
+#orange {
+    color: orange;
+}
+*/
+
+/*
+#purple {
+    color: purple; 
+}
+
+.red {
+    color: red;
+}
+*/
+
+* {
+    color: red;
+}

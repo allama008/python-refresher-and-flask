@@ -1,0 +1,34 @@
+/*
+main {
+    color: red;
+}
+*/
+/*
+a {
+    color: red;
+    text-decoration-color: aqua;
+    border: 1px solid currentColor;
+}
+*/
+/*
+a {
+    background-color: rgb(128, 0, 128);
+}
+*/
+p {
+    /*background-color: red;*/
+    /*background-color: rgb(128, 0, 128);*/
+    /*background-color: #ff0000;*/
+    /*background-color: hsla(300, 100%, 25%, 50%);*/
+    background-color: hsla(300, 100%, 25%);
+    opacity: 50%
+}
+
+/* 
+paragraph elements are block-level elements so they span 
+across the page
+links, spans and em are inline so they only take the space
+that the text requires
+*/
+
+

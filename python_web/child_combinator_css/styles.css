@@ -1,0 +1,9 @@
+/* The one below is for direct child combinator */
+/* dl > dt {
+    font-weight: 700;
+} */
+
+/*This is for any child combinator*/
+dl dt { 
+    font-weight: 700;
+}
